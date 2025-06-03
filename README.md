@@ -14,7 +14,7 @@ This project is a simple static website served using a Node.js HTTP server. It i
 ## Features
 * **Responsive Design**: Each page uses a responsive viewport meta tag and CSS flexbox for centered content.
 * **Consistent Styling**: All pages share a uniform design with a dark slate blue background, white text, and a large font size.
-* **Custom 404 Page:**: Display a custom 404 page for invalid URLs.
+* **Custom 404 Page**: Display a custom 404 page for invalid URLs.
 * **Node.js Server**:  A lightweight HTTP server that serves static HTML files based on the request URL.
 
 ## Prerequisites
